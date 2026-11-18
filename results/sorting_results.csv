@@ -1,0 +1,4 @@
+algorithm,records,avg_time_seconds,avg_memory_bytes,comparisons,swaps
+Bubble Sort,10000,20.184177409399854,328,49995000,349142
+Selection Sort,10000,15.638648850400205,265.6,49995000,9898
+Insertion Sort,10000,0.24903473400008808,222.4,359140,349142
