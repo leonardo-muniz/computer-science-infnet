@@ -1,0 +1,41 @@
+
+Dataset carregado: 10000 arquivos
+
+
+Hashtable
+----------------------------------------
+Posição 1: /init
+Posição 100: /dev/tty33
+Posição 1000: /etc/console-setup/compose.ISO-8859-13.inc
+Posição 5000: /home/leonardomuniz/.vscode-server-insiders/bin/ca70cf1a8b44ca31e91bc57595aa6054cbfcfa15/node_modules/undici/lib/web/subresource-integrity/subresource-integrity.js
+Posição 10000: /home/leonardomuniz/.vscode-server-insiders/extensions/ms-python.vscode-pylance-2026.4.101/dist/bundled/stubs/skimage/morphology/__init__.pyi
+Carga: 0.013593s
+Memória: 594.52 KB
+Inserção: 0.000004809s
+Remoção: 0.000311844s
+
+Stack
+----------------------------------------
+Posição 1: /init
+Posição 100: /dev/tty33
+Posição 1000: /etc/console-setup/compose.ISO-8859-13.inc
+Posição 5000: /home/leonardomuniz/.vscode-server-insiders/bin/ca70cf1a8b44ca31e91bc57595aa6054cbfcfa15/node_modules/undici/lib/web/subresource-integrity/subresource-integrity.js
+Posição 10000: /home/leonardomuniz/.vscode-server-insiders/extensions/ms-python.vscode-pylance-2026.4.101/dist/bundled/stubs/skimage/morphology/__init__.pyi
+Carga: 0.000234s
+Memória: 78.18 KB
+Inserção: 0.000019998s
+Remoção: 0.000005631s
+
+Queue
+----------------------------------------
+Posição 1: /init
+Posição 100: /dev/tty33
+Posição 1000: /etc/console-setup/compose.ISO-8859-13.inc
+Posição 5000: /home/leonardomuniz/.vscode-server-insiders/bin/ca70cf1a8b44ca31e91bc57595aa6054cbfcfa15/node_modules/undici/lib/web/subresource-integrity/subresource-integrity.js
+Posição 10000: /home/leonardomuniz/.vscode-server-insiders/extensions/ms-python.vscode-pylance-2026.4.101/dist/bundled/stubs/skimage/morphology/__init__.pyi
+Carga: 0.001227s
+Memória: 81.20 KB
+Inserção: 0.000011121s
+Remoção: 0.000205832s
+
+Resultados salvos em: /home/leonardomuniz/computer-science-infnet/results/structures_results.csv

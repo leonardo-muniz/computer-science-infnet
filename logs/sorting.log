@@ -1,0 +1,22 @@
+
+Dataset carregado: 10000 arquivos
+
+Bubble Sort
+Tempo médio: 20.184177s
+Memória média: 0.32 KB
+Comparações: 49995000
+Trocas: 349142
+
+Selection Sort
+Tempo médio: 15.638649s
+Memória média: 0.26 KB
+Comparações: 49995000
+Trocas: 9898
+
+Insertion Sort
+Tempo médio: 0.249035s
+Memória média: 0.22 KB
+Comparações: 359140
+Trocas: 349142
+
+Resultados salvos em: /home/leonardomuniz/computer-science-infnet/results/sorting_results.csv
