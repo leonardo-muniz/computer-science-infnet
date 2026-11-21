@@ -14,6 +14,8 @@ The experiments measure:
 - Hashtable, Stack, and Queue loading and insertion/removal performance.
 - Selected file paths at fixed positions in the dataset.
 
+---
+
 ## Dataset
 
 `run_benchmark.sh` walks `/` and stores absolute file paths in `data/file_list.txt`.
@@ -30,6 +32,8 @@ Example entries:
 ```
 
 The list is regenerated each time `run_benchmark.sh` is executed.
+
+---
 
 ## Project Structure
 
@@ -54,6 +58,8 @@ The list is regenerated each time `run_benchmark.sh` is executed.
     └── benchmark_report.md
 ```
 
+---
+
 ## Sorting Algorithms
 
 | Algorithm | Best case | Average case | Worst case |
@@ -69,6 +75,8 @@ The sorting benchmark runs each algorithm five times and records:
 - Comparison count.
 - Swap or shift count.
 - Number of records processed.
+
+---
 
 ## Data Structures
 
@@ -91,6 +99,8 @@ For each structure, the benchmark records:
 - Removal time and peak memory usage.
 - File paths located at positions 1, 100, 1,000, 5,000, and the last available position.
 
+---
+
 ## Requirements
 
 - Linux
@@ -98,6 +108,8 @@ For each structure, the benchmark records:
 - Bash
 
 The benchmarks use only the Python standard library.
+
+---
 
 ## Running the Project
 
@@ -125,6 +137,8 @@ python3 src/data_structures_benchmark.py
 
 Direct execution defaults to at most 10,000 records.
 
+---
+
 ## Record Limit
 
 Both Python benchmarks support the `BENCHMARK_MAX_RECORDS` environment variable.
@@ -141,6 +155,8 @@ Setting the limit to `0` allows the entire current dataset to be used. Positive 
 
 > Warning: using a large dataset with Bubble Sort or Selection Sort can take a very long time because both have quadratic worst-case and average-case complexity.
 
+---
+
 ## Generating the Report
 
 After the benchmarks produce both CSV files, generate `report/benchmark_report.md`:
@@ -150,6 +166,8 @@ After the benchmarks produce both CSV files, generate `report/benchmark_report.m
 ```
 
 The report script uses only Python's standard library and does not require pandas or matplotlib.
+
+---
 
 ## Output Files
 
@@ -162,9 +180,13 @@ The report script uses only Python's standard library and does not require panda
 | `logs/structures.log` | Data structure benchmark console output |
 | `report/benchmark_report.md` | Markdown summary of the CSV results |
 
+---
+
 ## Author
 
 Leonardo Muniz — Software Engineering / Computer Science
+
+---
 
 ## License
 
