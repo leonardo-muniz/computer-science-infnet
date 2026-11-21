@@ -52,6 +52,8 @@ This project explores the relationship between theoretical complexity and observ
     └── ex12_hash_analysis.md
 ```
 
+---
+
 ## Exercises
 
 ### Exercise 01
@@ -226,6 +228,8 @@ Topics covered:
 - Bucket utilization
 - Computational implications
 
+---
+
 ## Complexity Summary
 
 | Exercise	   | Main Complexity  |
@@ -243,6 +247,8 @@ Topics covered:
 | Ex10         | O(1)             |
 | Ex11         | O(n)             |
 
+---
+
 ## Running the Code
 
 Examples:
@@ -252,6 +258,8 @@ python3 src/ex01_unique_max.py
 python3 src/ex06_selection_sort.py
 python3 src/ex09_stack.py
 ```
+
+---
 
 ## Key Concepts Demonstrated
 
@@ -266,6 +274,8 @@ python3 src/ex09_stack.py
 - State management
 - Performance instrumentation
 
+---
+
 ## Academic Context
 
 This repository was developed as part of a practical study on:
@@ -276,9 +286,13 @@ This repository was developed as part of a practical study on:
 
 The emphasis of the project is on understanding the trade-offs between correctness, efficiency, and scalability.
 
+---
+
 ## Author
 
 Leonardo Muniz — Software Engineering / Computer Science
+
+---
 
 ## License
 
