@@ -20,15 +20,11 @@ The exercises were developed in Python, focusing on the understanding of recursi
     ├── ex4_diretorios.py
     ├── ex5_teams.py
     ├── ex6_knapsack.py
-    ├── ex7_analise_complexidade.md
-    ├── ex8_programacao_dinamica.py
-    ├── ex8_programacao_dinamica.md
-    ├── ex9_quicksort.py
+    ├── ex7_analise-complexidade.md
+    ├── ex08_programacao-dinamica.md
     ├── ex9_quicksort.md
-    ├── ex10_quicksort_instrumentado.py
     ├── ex10_instrumentacao.md
     ├── ex11_quickselect.py
-    ├── ex12_comparacao.py
     └── ex12_comparacao_final.md
 ```
 
